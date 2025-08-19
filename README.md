@@ -31,9 +31,8 @@ In addition to technical prowess, `cpp_42` emphasizes the importance of design p
 | [cpp_08](https://github.com/jotudela/cpp_42/tree/main/Cpp08) | This specialised C++ module focuses on understanding template containers, itterators and algorithms. |
 | [cpp_09](https://github.com/jotudela/cpp_42/tree/main/Cpp09) | This module focuses on familiarising students with the standard C++ containers in C++. |
 
-## ⚙️ Usage
-
-
+> [!NOTE]
+> All exercices compiles with `c++` compiler, and at least `-Wall, -Wextra, -Werror` flags.
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
